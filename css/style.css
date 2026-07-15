@@ -80,8 +80,9 @@ nav a:hover {
 =========================== */
 
 .emoji {
-    font-size: 80px;
-    margin-bottom: 20px;
+    font-size: 140px;
+    line-height: 1;
+    margin-bottom: 25px;
 }
 
 /* ===========================
